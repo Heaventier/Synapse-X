@@ -1,4 +1,8 @@
--- Synapse X Internal UI, but updated. --
+-- Synapse X Internal UI, but updated. 
+*rip synX 2016-2024, best level 7 windows executor with 100% UNC*
+
+Heard they teamed up w/ Roblox.
+(which is like 9/11 for exploiters)
 
 -- UPDATES IN THE INTERNAL CLIENT EXE UI --
 
@@ -24,10 +28,14 @@ Modification to Old GUI = Heaventier
 
 Infinite Yield FE = Moon, EdgeIY, 4+ More.
 
-RSpy & SaveInstance() = Unknown.
+RSpy = EdgeIY
+
+SaveInstance() = Unknown.
 
 V6X Backdoor.exe = K4Scripts
 
 Synapse X Blue UI = Hawk Series
+
+Synapse X Blue UI HAS KEY SYSTEM.
 
 -- END OF THE READ.TXT, WHAT NOW HUH? --
