@@ -1,0 +1,33 @@
+-- Synapse X Internal UI, but updated. --
+
+-- UPDATES IN THE INTERNAL CLIENT EXE UI --
+
+K4 -> V6X BACKDOOR (K4 Is outdated & patched.)
+
+Notification -> Updated by using "|"
+
+Dex Explorer SynX Edition -> Removed.
+(The loadstring not found. 404)
+
+RemoteSpy & SaveInstance() -> Still there.
+
+Added "Infinite Yield FE" Command-line. (V6)
+
+Replaced "Dex Exp." with custom UI.
+(Synapse X Blue UI) Yes, the one
+with integrated console.
+
+-- CREDITS OF GUI & OTHER STUFF --
+
+Synapse X Old (G)UI = vRBX CremiWorld
+Modification to Old GUI = Heaventier
+
+Infinite Yield FE = Moon, EdgeIY, 4+ More.
+
+RSpy & SaveInstance() = Unknown.
+
+V6X Backdoor.exe = K4Scripts
+
+Synapse X Blue UI = Hawk Series
+
+-- END OF THE READ.TXT, WHAT NOW HUH? --
